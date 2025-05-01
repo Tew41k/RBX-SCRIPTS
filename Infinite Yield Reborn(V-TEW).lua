@@ -1,3 +1,5 @@
+-- loadstring script: loadstring(game:HttpGet('https://raw.githubusercontent.com/Tew41k/RBX-SCRIPTS/refs/heads/main/Infinite%20Yield%20Reborn(V-TEW).lua'))()
+
 if IY_LOADED and not _G.IY_DEBUG == true then
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/Tew41k/RBX-SCRIPTS/refs/heads/main/AlredyExecuted'))()
 	return
